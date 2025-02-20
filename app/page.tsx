@@ -155,7 +155,7 @@ export default function Home() {
             <FaLinkedin size={30} />
           </a>
           <a
-            href="https://github.com/your-profile"
+            href="https://github.com/egaroll"
             target="_blank"
             style={styles.icon}
           >
