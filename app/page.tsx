@@ -30,7 +30,7 @@ export default function Home() {
             />
             <p style={styles.aboutText}>
               Hi, I`m Helga Puspa C.A, a passionate web developer with a love
-              for creating user-friendly websites and applications. With [X]
+              for creating user-friendly websites and applications. With 5
               years of experience in building web solutions, I strive to make
               the web a more interactive and accessible place.
             </p>
