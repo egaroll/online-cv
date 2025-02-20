@@ -22,7 +22,7 @@ export default function Home() {
           <h2 style={styles.sectionTitle}>About Me</h2>
           <div style={styles.profileContainer}>
             <Image
-              src="/public/images/photo.jpg" // Path to your profile image
+              src="/images/photo.jpg" // Path to your profile image
               alt="Profile Picture"
               width={150}
               height={150}
